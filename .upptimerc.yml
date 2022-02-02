@@ -7,10 +7,6 @@ sites:
     url: 179.42.189.61
   - name: VPN Pilar
     url: 190.216.95.26
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
     
 assignees: cucumedina    
 
