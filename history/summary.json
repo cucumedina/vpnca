@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vpn-giles",
     "status": "down",
-    "uptime": "72.85%",
-    "uptimeDay": "72.85%",
-    "uptimeWeek": "72.85%",
-    "uptimeMonth": "72.85%",
-    "uptimeYear": "72.85%",
+    "uptime": "0.58%",
+    "uptimeDay": "0.58%",
+    "uptimeWeek": "0.58%",
+    "uptimeMonth": "0.58%",
+    "uptimeYear": "0.58%",
     "time": 64,
     "timeDay": 64,
     "timeWeek": 64,
     "timeMonth": 64,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2022-02-02": 2
+      "2022-02-03": 128,
+      "2022-02-02": 757
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vpn-pilar",
     "status": "down",
-    "uptime": "80.38%",
-    "uptimeDay": "80.38%",
-    "uptimeWeek": "80.38%",
-    "uptimeMonth": "80.38%",
-    "uptimeYear": "80.38%",
+    "uptime": "0.64%",
+    "uptimeDay": "0.64%",
+    "uptimeWeek": "0.64%",
+    "uptimeMonth": "0.64%",
+    "uptimeYear": "0.64%",
     "time": 179,
     "timeDay": 179,
     "timeWeek": 179,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2022-02-02": 1
+      "2022-02-03": 128,
+      "2022-02-02": 756
     }
   }
 ]
